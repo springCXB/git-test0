@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hello.git3");
         System.out.println("dev text");
         System.out.println("master text");
+        System.out.println("push text");
 
     }
 }
